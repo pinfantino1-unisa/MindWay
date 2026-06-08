@@ -1,0 +1,43 @@
+# ------------------
+# IDE e Ambienti di Sviluppo
+# ------------------
+.idea/
+.vscode/
+*.swp
+*.suo
+
+# ------------------
+# File di Sistema OS
+# ------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ------------------
+# Cache e File Temporanei Python
+# ------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ------------------
+# Ambienti Virtuali
+# ------------------
+venv/
+env/
+.env
+
+# ------------------
+# Log e File di Addestramento IA
+# ------------------
+*.log
+logs/
+checkpoints/
+*.h5
+*.pkl"dataset_mindway.jsonl"
